@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align="center">
-📫 Reach me at:<br>
+## 🔗 Connect with me on :
+<br>
 
 <!-- Gmail Logo -->
 <a href="mailto:rana.essameldin111@gmail.com" target="_blank">
@@ -37,6 +38,15 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40px">
 </a>
 </div>
+
+
+### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+
+
+# :man_technologist: Knowledges
+
 
 ## Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=social&logo=c&logoColor=black)
