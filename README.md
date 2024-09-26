@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40px">
 </a>
 </div>
+
 ## Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=social&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=social&logo=c%2B%2B&logoColor=white)
