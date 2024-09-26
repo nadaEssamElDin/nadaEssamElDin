@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 🔗 Connect with me on :
 <br>
 
-<div style="display: flex; gap: 10px;">
+<div >
 
   <!-- Gmail Logo -->
   <a href="mailto:nada.essameldin111@gmail.com" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #db4437;">
