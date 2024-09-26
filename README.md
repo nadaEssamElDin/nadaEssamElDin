@@ -50,32 +50,36 @@ Here are some ideas to get you started:
 
 # :man_technologist: Knowledges
 
-
 ## Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=social&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=social&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=social&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=social&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=social&logo=php&logoColor=white)
+| Language | Logo |
+|----------|------|
+| C        | ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=ffffff) |
+| C++      | ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) |
+| C#       | ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=ffffff) |
+| Java     | ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff) |
+| Python   | ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff) |
+| PHP      | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff) |
 
 ## Frontend
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=social&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=social&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=social&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=social&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=social&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=social&logo=bootstrap&logoColor=white)
+| Language      | Logo |
+|---------------|------|
+| HTML          | ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) |
+| CSS           | ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3) |
+| JavaScript    | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
+| React         | ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) |
+| React Native  | ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react) |
+| Bootstrap     | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) |
 
 ## Backend
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=social&logo=spring-boot&logoColor=white)
+| Language       | Logo |
+|----------------|------|
+| Spring Boot    | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=spring-boot) |
 
 ## Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=social&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=social&logo=microsoft-sql-server&logoColor=white)
-
-
-
+| Database        | Logo |
+|-----------------|------|
+| MySQL           | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
+| MS SQL Server   | ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) |
 
 
 
