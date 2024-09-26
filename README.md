@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 ### 👀 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/nada.essameldin111@gmail.com/count.svg)
+## :man_technologist: Knowledges
 
-# :man_technologist: Knowledges
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
 
-## Languages
+### Languages
 | Language | Logo |
 |----------|------|
 | C        | ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=ffffff) |
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 | Python   | ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff) |
 | PHP      | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff) |
 
-## Frontend
+### Frontend
 | Language      | Logo |
 |---------------|------|
 | HTML          | ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) |
@@ -72,17 +73,18 @@ Here are some ideas to get you started:
 | React Native  | ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react) |
 | Bootstrap     | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) |
 
-## Backend
+### Backend
 | Language       | Logo |
 |----------------|------|
 | Spring Boot    | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=spring-boot) |
 
-## Database
+### Database
 | Database        | Logo |
 |-----------------|------|
 | MySQL           | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
 | MS SQL Server   | ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) |
 
+</div>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
