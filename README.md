@@ -1,6 +1,8 @@
 
 
-**nadaEssamElDin/nadaEssamElDin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
+**rana-essameldin/rana-essameldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,8 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ## Hi, I'm nada 👋
+# 🖖 there, I'm  Software developer 
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;***Talking about me:***
 - 👯 I’m looking to collaborate on open-source projects related to frontend development , Backend development and mobile apps.
@@ -69,3 +73,13 @@ Here are some ideas to get you started:
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=social&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=social&logo=microsoft-sql-server&logoColor=white)
+
+
+
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
+
+
+
