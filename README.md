@@ -39,9 +39,10 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+
 ### 👀 Visitor Count
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Visitor Count" />
+![Visitor Count](https://profile-counter.glitch.me/nada.essameldin111@gmail.com/count.svg)
 
 # :man_technologist: Knowledges
 
