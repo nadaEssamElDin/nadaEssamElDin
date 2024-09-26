@@ -33,14 +33,15 @@ Here are some ideas to get you started:
 <br>
 
 
+<div style="display: flex; gap: 10px;">
 
   <!-- Gmail Logo -->
-  <a href="mailto:nada.essameldin111@gmail.com" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #db4437;">
+  <a href="mailto:rana.essameldin111@gmail.com" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #db4437;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30px">
   </a>
 
   <!-- LinkedIn Logo -->
-  <a href="https://www.linkedin.com/in/nada-essam-a3195b25b/" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #0A66C2;">
+  <a href="https://www.linkedin.com/in/rana-essam-a3195b25b/" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #0A66C2;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="30px">
   </a>
   
