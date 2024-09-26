@@ -1,6 +1,3 @@
-
-
-
 <!--
 **rana-essameldin/rana-essameldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,21 +14,18 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm nada 👋
-# 🖖 there, I'm  Software developer 
+# 🖖 there, I'm a Software Developer 
 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;***Talking about me:***
-- 👯 I’m looking to collaborate on open-source projects related to frontend development , Backend development and mobile apps.
-- 💬 Ask me about anything, I am happy to help;
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;***Talking about me:***
+- 👯 I’m looking to collaborate on open-source projects related to frontend development, backend development, and mobile apps.
+- 💬 Ask me about anything; I am happy to help!
 - 😄 Pronouns: She/Her.
-
-
 
 <br>
 <br>
 <div align="center">
-## 🔗 Connect with me on :
+## 🔗 Connect with me on:
 <br>
-
 
 <div style="display: flex; gap: 10px;">
 
@@ -45,10 +39,12 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="30px">
   </a>
 
+</div>
+</div>
 
 ### 👀 Visitor Count
-
 ![Visitor Count](https://profile-counter.glitch.me/nada.essameldin111@gmail.com/count.svg)
+
 ## :man_technologist: Knowledges
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -86,8 +82,4 @@ Here are some ideas to get you started:
 
 </div>
 
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
-
-
-
