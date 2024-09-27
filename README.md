@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Add the software engineer girl image here -->
 <div align="center">
-  <img src="https://www.google.com/imgres?q=image%20for%20software%20developer&imgurl=https%3A%2F%2Fwww.ntc.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffull_width_16_9%2Fpublic%2F2021-06%2Fsoftware-development-specialist.jpg%3Fitok%3DD8qgVwxb&imgrefurl=https%3A%2F%2Fwww.ntc.edu%2Facademics-training%2Fprograms%2Fall%2Fassociate-degree%2Fit-software-developer&docid=RbOJzL0GB7h3wM&tbnid=Nxrg5Niv8uL8sM&vet=12ahUKEwjo4JPi6eGIAxXDAtsEHdutBkQQM3oECHUQAA..i&w=2000&h=1125&hcb=2&ved=2ahUKEwjo4JPi6eGIAxXDAtsEHdutBkQQM3oECHUQAA" alt="Software Engineer Girl" width="400px">
+  <img src="https://cdn.sanity.io/images/tlr8oxjg/production/9437d7766f7278267511f8a3672cde1aa6349872-1456x816.png?w=3840&q=100&fit=clip&auto=format" alt="Software Engineer Girl" width="400px">
 </div>
 
 <br>
