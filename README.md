@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Add the software engineer girl image here -->
 <div align="center">
-  <img src="path-to-your-image.png" alt="Software Engineer Girl" width="400px">
+  <img src="C:\Users\Lenovo\Desktop\1.webp" alt="Software Engineer Girl" width="400px">
 </div>
 
 <br>
