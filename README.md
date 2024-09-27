@@ -91,5 +91,14 @@ I'm a passionate software developer who loves building dynamic web applications 
 | MS SQL Server   | ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) |
 
 </div>
+### 💻 Languages & Proficiency
+
+| Language      | Proficiency |
+|---------------|-------------|
+| C        | ████████ 80% |
+| C++      | ███████ 70% |
+| Java     | █████████ 85% |
+| Python   | ██████████ 90% |
+| PHP      | ██████ 60% |
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
