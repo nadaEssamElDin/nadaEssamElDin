@@ -27,7 +27,7 @@ I'm a passionate software developer who loves building dynamic web applications 
 - 😄 Pronouns: She/Her.
   <br>
   <br>
-<div align="center">
+<div align="left">
 ## 🔗 Connect with me on:
 <br>
 
@@ -45,7 +45,8 @@ I'm a passionate software developer who loves building dynamic web applications 
 
 </div>
 </div>
-
+<br>
+<br>
   <!-- Add the software engineer girl image here -->
 <div align="center">
   <img src="https://img.freepik.com/premium-vector/playing-laptops_793864-572.jpg?w=360" alt="Software Engineer Girl" width="200px">
