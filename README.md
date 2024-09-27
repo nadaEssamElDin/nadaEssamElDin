@@ -25,15 +25,7 @@ I'm a passionate software developer who loves building dynamic web applications 
 - 👯 I’m looking to collaborate on open-source projects related to frontend development, backend development, and mobile apps.
 - 💬 Ask me about anything; I am happy to help!
 - 😄 Pronouns: She/Her.
-
-
-  <!-- Add the software engineer girl image here -->
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/playing-laptops_793864-572.jpg?w=360" alt="Software Engineer Girl" width="200px">
-</div>
-<br>
-<br>
-<div align="center">
+<div>
 ## 🔗 Connect with me on:
 <br>
 
@@ -51,6 +43,14 @@ I'm a passionate software developer who loves building dynamic web applications 
 
 </div>
 </div>
+
+  <!-- Add the software engineer girl image here -->
+<div align="center">
+  <img src="https://img.freepik.com/premium-vector/playing-laptops_793864-572.jpg?w=360" alt="Software Engineer Girl" width="200px">
+</div>
+<br>
+<br>
+
 
 ### 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/nada.essameldin111@gmail.com/count.svg)
@@ -91,9 +91,6 @@ I'm a passionate software developer who loves building dynamic web applications 
 | MS SQL Server   | ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) |
 
 </div>
-
-### 🧑‍💻 My Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nada.essameldin111@gmail.com&layout=compact&theme=default)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
