@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🖖 there, I'm a Software Developer 
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;***Talking about me:*** <br>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;***Talking about me:*** <br> <br>
 I'm a passionate software developer who loves building dynamic web applications and mobile apps. When I'm not coding, you can find me exploring new technologies, reading, or traveling to new places.
 
 - 🔭 Currently working on enhancing my React Native skills.
