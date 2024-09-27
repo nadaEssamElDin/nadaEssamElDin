@@ -20,7 +20,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects related to frontend development, backend development, and mobile apps.
 - 💬 Ask me about anything; I am happy to help!
 - 😄 Pronouns: She/Her.
+<br>
+<br>
 
+<!-- Add the software engineer girl image here -->
+<div align="center">
+  <img src="path-to-your-image.png" alt="Software Engineer Girl" width="400px">
+</div>
+
+<br>
+<br>
 <br>
 <br>
 <div align="center">
