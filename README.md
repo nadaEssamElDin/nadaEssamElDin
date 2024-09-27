@@ -48,11 +48,7 @@ I'm a passionate software developer who loves building dynamic web applications 
   </div>
 </div>
 
-<style>
-  a:hover {
-    transform: scale(1.1); /* Scale up when hovering */
-  }
-</style>
+
 
 <br>
 <br>
