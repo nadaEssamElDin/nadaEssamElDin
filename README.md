@@ -28,23 +28,32 @@ I'm a passionate software developer who loves building dynamic web applications 
   <br>
   <br>
 <div>
-## 🔗 Connect with me on:
-<br>
+  <h2>🔗 Connect with me on:</h2>
+  <br>
 
-<div style="display: flex; gap: 30px;" >
+  <div style="display: flex; gap: 30px; justify-content: center;" >
+    
+    <!-- Gmail Logo -->
+    <a href="mailto:nada.essameldin111@gmail.com" target="_blank" 
+       style="border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 3px solid #db4437; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="25px">
+    </a>
 
-  <!-- Gmail Logo -->
-  <a href="mailto:nada.essameldin111@gmail.com" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #db4437;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30px">
-  </a>
+    <!-- LinkedIn Logo -->
+    <a href="https://www.linkedin.com/in/nada-essam-6950b4270?trk=contact-info" target="_blank" 
+       style="border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 3px solid #0A66C2; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="25px">
+    </a>
 
-  <!-- LinkedIn Logo -->
-  <a href="https://www.linkedin.com/in/nada-essam-6950b4270?trk=contact-info" target="_blank" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background-color: #ffffff; border: 2px solid #0A66C2;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="30px">
-  </a>
-
+  </div>
 </div>
-</div>
+
+<style>
+  a:hover {
+    transform: scale(1.1); /* Scale up when hovering */
+  }
+</style>
+
 <br>
 <br>
   <!-- Add the software engineer girl image here -->
