@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 ## Hi, I'm nada 👋
 # 🖖 there, I'm a Software Developer 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;***Talking about me:***
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">&nbsp;*** 🚀 Talking about me:***
+I'm a passionate software developer who loves building dynamic web applications and mobile apps. When I'm not coding, you can find me exploring new technologies, reading, or traveling to new places.
+
+- 🔭 Currently working on enhancing my React Native skills.
+- 💻 Coding Philosophy: "Keep it simple, scalable, and readable."
 - 👯 I’m looking to collaborate on open-source projects related to frontend development, backend development, and mobile apps.
 - 💬 Ask me about anything; I am happy to help!
 - 😄 Pronouns: She/Her.
