@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything; I am happy to help!
 - 😄 Pronouns: She/Her.
 
-- 
+
   <!-- Add the software engineer girl image here -->
 <div align="center">
   <img src="https://img.freepik.com/premium-vector/playing-laptops_793864-572.jpg?w=360" alt="Software Engineer Girl" width="200px">
