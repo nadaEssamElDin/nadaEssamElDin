@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Add the software engineer girl image here -->
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/playing-laptops_793864-572.jpg?w=360" alt="Software Engineer Girl" width="700px">
+  <img src="https://img.freepik.com/premium-vector/playing-laptops_793864-572.jpg?w=360" alt="Software Engineer Girl" width="300px">
 </div>
 
 <br>
