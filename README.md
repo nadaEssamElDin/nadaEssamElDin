@@ -25,7 +25,9 @@ I'm a passionate software developer who loves building dynamic web applications 
 - 👯 I’m looking to collaborate on open-source projects related to frontend development, backend development, and mobile apps.
 - 💬 Ask me about anything; I am happy to help!
 - 😄 Pronouns: She/Her.
-<div>
+  <br>
+  <br>
+<div align="center">
 ## 🔗 Connect with me on:
 <br>
 
